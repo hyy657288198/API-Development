@@ -1,4 +1,4 @@
-# Assignment 1
+# API Development
 
 # Instructions and descriptions
 1. Game Rsults Summary - /api/results?date={YYYY-MM-DD}
